@@ -1,2 +1,2 @@
-# challege-_basico_Bigdata
+# challege basico Bigdata
 Conexión a Databricks proyectos.
